@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#1b1b1b"/>
+  <g stroke="#888" stroke-width="6">
+    <line x1="140" y1="70" x2="140" y2="40"/><line x1="180" y1="70" x2="180" y2="40"/>
+    <line x1="220" y1="70" x2="220" y2="40"/><line x1="260" y1="70" x2="260" y2="40"/>
+    <line x1="140" y1="190" x2="140" y2="220"/><line x1="180" y1="190" x2="180" y2="220"/>
+    <line x1="220" y1="190" x2="220" y2="220"/><line x1="260" y1="190" x2="260" y2="220"/>
+  </g>
+  <rect x="110" y="70" width="180" height="120" rx="10" fill="#2b2b2b" stroke="#d32f2f" stroke-width="4"/>
+  <text x="200" y="142" font-family="Arial" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">ECU</text>
+  <text x="200" y="270" font-family="Arial" font-size="30" font-weight="bold" fill="#d32f2f" text-anchor="middle">REMAP STAGE 1</text>
+</svg>
